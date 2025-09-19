@@ -1,0 +1,10 @@
+# Diretório de build do Rust
+/target/
+
+# Arquivos de sistema
+*.DS_Store
+Thumbs.db
+
+# Configs locais
+*.log
+*.env
