@@ -1,6 +1,6 @@
 // src/lib.rs
 
-pub struct MyVec { //Cira uma estrutura publica chamada MyVec
+pub struct MyVec { //Cria uma estrutura publica chamada MyVec
     data: Vec<i32>, // Diz que vai guardar um vetor com valores 32 bit na memória (i32)
 }
 
