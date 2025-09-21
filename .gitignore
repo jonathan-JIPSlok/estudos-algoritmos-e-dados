@@ -1,11 +1,5 @@
 # Diretório de build do Rust
-aula2/target/
-aula3/target/
-meus_testes/target/
-vetores/target/
-aula4/target/
-aula4_1/target/
-aula5/target/
+*target/
 
 # Arquivos de sistema
 *.DS_Store
