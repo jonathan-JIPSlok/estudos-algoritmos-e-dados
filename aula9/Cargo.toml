@@ -1,0 +1,9 @@
+[package]
+name = "aula9"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bubble_sort = { path = "bubble_sort" }
+quick_sort = { path = "quick_sort" }
+merge_sort = { path = "merge_sort" }
